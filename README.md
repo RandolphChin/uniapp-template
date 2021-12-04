@@ -6,7 +6,8 @@
 2. 访问权限页面A时，未登录则跳转至登录页面，登录成功后自动跳转至A页面
 3. 页面到底部之后加载数据(onReachBottom)，页面下拉到底后动态加载下一页滚动翻页(示例userInfo.vue)
 
-微信小程序对应后端前往这里 [wechat-admin](https://github.com/RandolphChin/wechat-admin)https://github.com/RandolphChin/coadmin-wechat.git
+微信小程序对应后端前往这里 [wechat-admin]https://github.com/RandolphChin/coadmin-wechat.git)https://github.com/RandolphChin/coadmin-wechat.git
+后端有两个版本一个是 JPA(coadmin-wechat) ，一个是 mybatis plus (wechat-admin)
 ## 主架构 uniapp
 
 ###	介绍 
